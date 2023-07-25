@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://images.unsplash.com/photo-1602080858428-57174f9431cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1251&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 150,
+      "categoryId": 2,
+      "description": "Packard Bell",
+      "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Bilgisayar",
+      "price": 12500,
+      "categoryId": 3,
+      "description": "HP Eliteone",
+      "imageUrl": "https://cdn.cimri.io/image/1200x1200/turboxmasastbilgisayarfiyatlar_671660709.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Klavye",
+      "price": "100",
+      "categoryId": "3",
+      "description": "hp kalavye",
+      "imageUrl": "https://cdn.akakce.com/logitech/logitech-k120-920-002505-q-z.jpg"
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "arçelik buzdolabı",
+      "imageUrl": "https://www.lg.com/tr/images/buzdolabi/md05864197/gallery/GR-F802HLHU-D04-05102017.jpg",
+      "price": "35000",
+      "categoryId": "3",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Bilgisayar"
+    }
+  ]
+}
